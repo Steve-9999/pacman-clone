@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment (if you're using one)
+env/
+.venv/
+
+# Pygame cache files (if any)
+*.mp3.cache
+*.ogg.cache
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Python package files
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore any compiled binaries
+*.exe
+*.dll
+*.out
